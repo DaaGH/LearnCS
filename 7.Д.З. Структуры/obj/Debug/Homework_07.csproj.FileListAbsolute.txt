@@ -1,0 +1,16 @@
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07\obj\Debug\Homework_07.csproj.AssemblyReference.cache
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07\obj\Debug\Homework_07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07\obj\Debug\Homework_07.csproj.CoreCompileInputs.cache
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07\bin\Debug\Homework_07.exe.config
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07\bin\Debug\Homework_07.exe
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07\bin\Debug\Homework_07.pdb
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07\obj\Debug\Homework_07.exe
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07\obj\Debug\Homework_07.pdb
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07_чистовик\bin\Debug\Homework_07.exe.config
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07_чистовик\bin\Debug\Homework_07.exe
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07_чистовик\bin\Debug\Homework_07.pdb
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07_чистовик\obj\Debug\Homework_07.csproj.AssemblyReference.cache
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07_чистовик\obj\Debug\Homework_07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07_чистовик\obj\Debug\Homework_07.csproj.CoreCompileInputs.cache
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07_чистовик\obj\Debug\Homework_07.exe
+C:\Users\Dartem\Documents\С#\ДЗ\Блок 7\Homework_07_чистовик\obj\Debug\Homework_07.pdb
