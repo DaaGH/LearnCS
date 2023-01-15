@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Артём">
+  <Address>
+    <Street>Нахимова</Street>
+    <HouseNumber>6</HouseNumber>
+    <FlatNumber>35</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>390478189073</MobilePhone>
+    <FlatPhone>2304720987</FlatPhone>
+  </Phones>
+</Person>
