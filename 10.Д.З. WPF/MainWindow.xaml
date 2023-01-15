@@ -1,0 +1,60 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Dz_10" Height="475" Width="800">
+    <Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <GroupBox Grid.Column="0" 
+                  FontSize="20"
+                  Header="Введите предложение"
+                  HorizontalAlignment="Stretch" 
+                  Margin="5"
+                  VerticalAlignment="Stretch" 
+                  >
+            <StackPanel>
+
+                <TextBox x:Name="txtStringReplace" FontSize="20" Margin="5"/>
+
+                <Button x:Name="btnReplace" FontSize="20" Content="Перестановка слов" Margin="5,5,5,7" Click="btnClickReplace"/>
+                
+                <Label x:Name="LabelReplace" Background="#FF15DC05" Margin = "5" FontSize="15" Height="35"/>
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Grid.Column="1" 
+                  FontSize="20"
+                  Header="Введите предложение"
+                  HorizontalAlignment="Stretch" 
+                  Margin="5"
+                  VerticalAlignment="Stretch" 
+                  >
+            <StackPanel>
+
+                <TextBox x:Name="txtStringSplit" FontSize="20" Margin="5"/>
+
+                <Button x:Name="btnSplit" FontSize="20" Content="Разделить на слова" Margin="5" Click="btnClickSplit"/>
+
+                <ListBox x:Name="logListSplit"    
+                 Height="300"               
+                 VerticalAlignment="Stretch"
+                 Margin="5" 
+                 Background="#FFA494A0"  
+                 ItemsSource="{Binding ElementName=logList, Path=SelectedItem}"
+                 >
+                   
+                </ListBox>
+            </StackPanel>
+        </GroupBox>
+
+        
+
+    </Grid>
+</Window>
