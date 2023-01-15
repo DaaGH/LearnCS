@@ -1,0 +1,31 @@
+E:\Дорохов\Prog\Skillbox\5.1 Исходники Модуль 5\Theme_05\Example_005\bin\Debug\Example_005.exe.config
+E:\Дорохов\Prog\Skillbox\5.1 Исходники Модуль 5\Theme_05\Example_005\bin\Debug\Example_005.exe
+E:\Дорохов\Prog\Skillbox\5.1 Исходники Модуль 5\Theme_05\Example_005\bin\Debug\Example_005.pdb
+E:\Дорохов\Prog\Skillbox\5.1 Исходники Модуль 5\Theme_05\Example_005\obj\Debug\Example_005.csproj.CoreCompileInputs.cache
+E:\Дорохов\Prog\Skillbox\5.1 Исходники Модуль 5\Theme_05\Example_005\obj\Debug\Example_005.exe
+E:\Дорохов\Prog\Skillbox\5.1 Исходники Модуль 5\Theme_05\Example_005\obj\Debug\Example_005.pdb
+E:\Дорохов\Prog\Skillbox\5.1 Исходники Модуль 5\Theme_05\Example_005\obj\Debug\Example_005.csproj.AssemblyReference.cache
+E:\C#\Example_005(full)\bin\Debug\Example_005.exe.config
+E:\C#\Example_005(full)\bin\Debug\Example_005.exe
+E:\C#\Example_005(full)\bin\Debug\Example_005.pdb
+E:\C#\Example_005(full)\obj\Debug\Example_005.csproj.AssemblyReference.cache
+E:\C#\Example_005(full)\obj\Debug\Example_005.csproj.SuggestedBindingRedirects.cache
+E:\C#\Example_005(full)\obj\Debug\Example_005.csproj.CoreCompileInputs.cache
+E:\C#\Example_005(full)\obj\Debug\Example_005.exe
+E:\C#\Example_005(full)\obj\Debug\Example_005.pdb
+C:\Users\Artem\Documents\С#\Example_005(full)\bin\Debug\Example_005.exe.config
+C:\Users\Artem\Documents\С#\Example_005(full)\bin\Debug\Example_005.exe
+C:\Users\Artem\Documents\С#\Example_005(full)\bin\Debug\Example_005.pdb
+C:\Users\Artem\Documents\С#\Example_005(full)\obj\Debug\Example_005.csproj.AssemblyReference.cache
+C:\Users\Artem\Documents\С#\Example_005(full)\obj\Debug\Example_005.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\Documents\С#\Example_005(full)\obj\Debug\Example_005.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\С#\Example_005(full)\obj\Debug\Example_005.exe
+C:\Users\Artem\Documents\С#\Example_005(full)\obj\Debug\Example_005.pdb
+C:\Users\Dartem\Documents\С#\ДЗ\Example_005(full)\bin\Debug\Example_005.exe.config
+C:\Users\Dartem\Documents\С#\ДЗ\Example_005(full)\bin\Debug\Example_005.exe
+C:\Users\Dartem\Documents\С#\ДЗ\Example_005(full)\bin\Debug\Example_005.pdb
+C:\Users\Dartem\Documents\С#\ДЗ\Example_005(full)\obj\Debug\Example_005.csproj.AssemblyReference.cache
+C:\Users\Dartem\Documents\С#\ДЗ\Example_005(full)\obj\Debug\Example_005.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dartem\Documents\С#\ДЗ\Example_005(full)\obj\Debug\Example_005.csproj.CoreCompileInputs.cache
+C:\Users\Dartem\Documents\С#\ДЗ\Example_005(full)\obj\Debug\Example_005.exe
+C:\Users\Dartem\Documents\С#\ДЗ\Example_005(full)\obj\Debug\Example_005.pdb
