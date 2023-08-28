@@ -1,0 +1,30 @@
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\obj\Debug\net6.0\Homework11.csproj.AssemblyReference.cache
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\obj\Debug\net6.0\Homework11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\obj\Debug\net6.0\Homework11.AssemblyInfoInputs.cache
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\obj\Debug\net6.0\Homework11.AssemblyInfo.cs
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\obj\Debug\net6.0\Homework11.csproj.CoreCompileInputs.cache
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\bin\Debug\net6.0\Homework11.exe
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\bin\Debug\net6.0\Homework11.deps.json
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\bin\Debug\net6.0\Homework11.runtimeconfig.json
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\bin\Debug\net6.0\Homework11.dll
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\bin\Debug\net6.0\ref\Homework11.dll
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\bin\Debug\net6.0\Homework11.pdb
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\obj\Debug\net6.0\Homework11.dll
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\obj\Debug\net6.0\ref\Homework11.dll
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\obj\Debug\net6.0\Homework11.pdb
+C:\Users\Dartem\Documents\prog\homework11\Homework11\Homework11\obj\Debug\net6.0\Homework11.genruntimeconfig.cache
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\bin\Debug\net6.0\Homework11.exe
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\bin\Debug\net6.0\Homework11.deps.json
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\bin\Debug\net6.0\Homework11.runtimeconfig.json
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\bin\Debug\net6.0\Homework11.dll
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\bin\Debug\net6.0\Homework11.pdb
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\Homework11.csproj.AssemblyReference.cache
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\Homework11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\Homework11.AssemblyInfoInputs.cache
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\Homework11.AssemblyInfo.cs
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\Homework11.csproj.CoreCompileInputs.cache
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\Homework11.dll
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\refint\Homework11.dll
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\Homework11.pdb
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\Homework11.genruntimeconfig.cache
+C:\Users\Dartem\Documents\С#\Видео по С#\11 Глубокое погружение в ООП\Homework11\obj\Debug\net6.0\ref\Homework11.dll
