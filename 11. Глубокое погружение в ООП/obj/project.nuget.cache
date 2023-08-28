@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "mg4yRMoIsS9K/rmq3OrCcO8IGUt2RV7q+HYwGetSocTQBQE2jtmWpQ5lV7oaS60QUbgpm8zdA6grM+53WDHsPg==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Dartem\\Documents\\prog\\gittest\\LearnCS\\11. Глубокое погружение в ООП\\Homework11.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "ijV7gYM44RTFRYqBC1lOGlrLpqE6GLN8mLc3ruT4IO8CIlerdh22DlOeQX2I3Bl2vg+9RIi1nAZmFTx4dqxjGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dartem\\Documents\\С#\\Видео по С#\\11 Глубокое погружение в ООП\\Homework11\\Homework11.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> origin
 }
